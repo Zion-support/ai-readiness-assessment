@@ -1,16 +1,19 @@
-# 🌐 Zion App Network — Interlinks
+# ai-readiness-assessment — Zion App Network
 
-**ai-readiness-assessment** is part of the Zion Tech Group app network (630+ apps).
+AI Readiness Assessment — scored questionnaire with adoption roadmap.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+- Live app: https://ziontechgroup.com/ai-readiness-assessment/
+- Homepage: https://ziontechgroup.com
+- Network hub: https://zion-support.github.io/zion-network/
+- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
 
 ## Related apps
-- [ai-readiness-score](https://github.com/Zion-support/ai-readiness-score) — AI maturity scorecard
-- [zion-ai-readiness-quiz](https://github.com/Zion-support/zion-ai-readiness-quiz) — Readiness quiz
-- [zion-data-readiness-audit](https://github.com/Zion-support/zion-data-readiness-audit) — Data readiness audit
-- [zion-multilingual-ai-checker](https://github.com/Zion-support/zion-multilingual-ai-checker) — i18n readiness checker
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+- [ai-readiness-score](https://github.com/Zion-support/ai-readiness-score) — organizational AI maturity scorecard
+- [ai-roi-calculator](https://github.com/Zion-support/ai-roi-calculator) — AI ROI calculator
+- [zion-discovery](https://zion-support.github.io/zion-discovery/) — $99 process diagnostic in 7 days
+- [ai-governance-dashboard](https://ai-governance-dashboard.ziontechgroup.com) — enterprise AI governance
+- [ai-compliance-auditor](https://ziontechgroup.com/ai-compliance-auditor/) — EU AI Act compliance auditing
+- [zion-ai-training-academy](https://ziontechgroup.com/zion-ai-training-academy/) — AI training academy
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
