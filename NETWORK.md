@@ -1,19 +1,10 @@
-# ai-readiness-assessment — Zion App Network
+# AI Readiness Assessment
 
-AI Readiness Assessment — scored questionnaire with adoption roadmap.
+Scored questionnaire with adoption roadmap.
 
-- Live app: https://ziontechgroup.com/ai-readiness-assessment/
-- Homepage: https://ziontechgroup.com
-- Network hub: https://zion-support.github.io/zion-network/
-- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-readiness-score](https://github.com/Zion-support/ai-readiness-score) · [zion-ai-readiness-quiz](https://github.com/Zion-support/zion-ai-readiness-quiz) · [zion-data-readiness-audit](https://github.com/Zion-support/zion-data-readiness-audit) · [ai-roi-calculator](https://github.com/Zion-support/ai-roi-calculator)
 
-## Related apps
-- [ai-readiness-score](https://github.com/Zion-support/ai-readiness-score) — organizational AI maturity scorecard
-- [ai-roi-calculator](https://github.com/Zion-support/ai-roi-calculator) — AI ROI calculator
-- [zion-discovery](https://zion-support.github.io/zion-discovery/) — $99 process diagnostic in 7 days
-- [ai-governance-dashboard](https://ai-governance-dashboard.ziontechgroup.com) — enterprise AI governance
-- [ai-compliance-auditor](https://ziontechgroup.com/ai-compliance-auditor/) — EU AI Act compliance auditing
-- [zion-ai-training-academy](https://ziontechgroup.com/zion-ai-training-academy/) — AI training academy
-
----
-Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
